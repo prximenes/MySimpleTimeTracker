@@ -19,7 +19,7 @@ To run this application, you will need Python installed on your system, along wi
 
 ### Running the Executable
 
-1. Download the latest release from [GitHub Releases page](https://github.com/yourgithubusername/EletronicDot/releases) or unpack the provided distribution package.
+1. Download the latest release from [GitHub Releases page](https://github.com/prximenes/MySimpleTimeTracker/releases/) or unpack the provided distribution package.
 2. Navigate to the `dist/eletronic_point/` directory.
 3. Run the executable:
    - On Windows: Double-click `eletronic_point.exe`.
